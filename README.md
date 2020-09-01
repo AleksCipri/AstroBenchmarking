@@ -1,4 +1,4 @@
-![](Astro-MNIST.png)
+![](images/Astro-MNIST.png)
 
 # ABOUT THE PROJECT
 * Currently there are no official benchmarking datasets in astronomy (astro-MNIST) that can be used by the community to compare different ML models and techniques in order to understand the improvements and benefits of novel approaches.
@@ -22,6 +22,7 @@
 .......fill in......
 
 ## SkyPy
+![](images/skypy.png)
 This package contains methods for modelling the Universe, galaxies and the Milky Way. Also included are methods for generating observed data.
 - Galaxy morphology, luminosity and redshift distributions
 - Halo and subhalo mass distributions
