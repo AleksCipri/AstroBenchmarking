@@ -1,11 +1,7 @@
-# AstroBenchHack
+# Astro-MNIST
 AstroHackWeek2020 Hack proposal about benchmarking astro datasets
 
 ![](Astro-MNIST.png)
-
-
-### Title
-Astro-MNIST
 
 ### Hack Creator
 Aleksandra Ciprijanovic
