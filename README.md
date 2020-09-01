@@ -23,6 +23,7 @@
 
 ## SkyPy
 ![](images/skypy.png)
+
 This package contains methods for modelling the Universe, galaxies and the Milky Way. Also included are methods for generating observed data.
 - Galaxy morphology, luminosity and redshift distributions
 - Halo and subhalo mass distributions
