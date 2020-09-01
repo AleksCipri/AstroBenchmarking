@@ -1,5 +1,5 @@
 # AstroBenchHack
-AstroHackWeek2020 Hack proposal about astro benchmark datasets
+AstroHackWeek2020 Hack proposal about benchmarking astro datasets
 
 ![](Astro-MNIST.png)
 
