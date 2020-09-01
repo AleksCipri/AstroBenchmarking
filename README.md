@@ -17,12 +17,12 @@ Aleksandra Ciprijanovic
 * No computing resources needed.
 
 ### How?
-* Steps: 
 - Make a github repo that will be home of the project.
 - Add links to simulations that can be used for benchmarking, plus witre a nice document explaining all available resources.
 - Decide which areas and datasets we want to start with. Are they already available somewhere...if yes add links.
 - If a dataset is not available somewhere brainstorm what would be the best way to store and make these datasets available.
 - Write a "Best practices how to guide".
+
 * All of the steps can be worked on simultaiously in a group or individualy. We'll need to discuss a lot of things over coffee and add things to github.
 
 ### Who?
