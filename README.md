@@ -10,25 +10,30 @@
 * Here we summarize what we believe are best practices for acheaving these goals. Modern research (esspetially if it includes novel computing or machine learning techniques) has to comply with a set of requirement in order for other researchers to be able to understand, compare and reproduce the results. Without transparency in both data aquiral / preprocessing, coding and hyper parameter fine tuning, but also without model benhmarking on standardized but simple datasets (before applying models to specialized datasets unque for that research topic), we cannot produce trustworthy and reliable scientific results. 
 
 ## DATA
+.......fill in......
 
 ## CODE
-
+.......fill in......
 
 
 # SIMULATIONS 
 
 ## DeepBench
+.......fill in......
 
 ## SkyPy
+.......fill in......
 
 
 
 
 # SIMULATED DATASETS
+.......fill in......
 
 
 
 # REAL DATASETS
+.......fill in......
 
 
 
