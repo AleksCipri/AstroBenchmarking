@@ -1,7 +1,3 @@
-
-# Astro Benchmarking
-AstroHackWeek2020 Hack proposal #Astro-MNIST
-
 ![](Astro-MNIST.png)
 
 ### ABOUT THE PROJECT
