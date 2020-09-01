@@ -22,7 +22,14 @@
 .......fill in......
 
 ## SkyPy
-.......fill in......
+This package contains methods for modelling the Universe, galaxies and the Milky Way. Also included are methods for generating observed data.
+- Galaxy morphology, luminosity and redshift distributions
+- Halo and subhalo mass distributions
+- Gravitational Wave binary merger rates
+- Power Spectra using CAMB and Halofit
+- Pipelines to generate populations of astronomical objects
+
+Access the repo [here](https://github.com/skypyproject/skypy).
 
 
 
