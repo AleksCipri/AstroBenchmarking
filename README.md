@@ -1,4 +1,4 @@
-# BenchHack
+# AstroBenchHack
 AstroHackWeek2020 Hack proposal about astro benchmark datasets
 
 
