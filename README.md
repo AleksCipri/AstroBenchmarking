@@ -49,10 +49,11 @@ Access the repo [here](https://github.com/skypyproject/skypy).
 
 
 # REAL DATASETS
+
 ## AstroML
 ....fill in ......
 
-Example for using a dataset from astroML (RR Lyrae) within an decision tree algorithm can be found [here](https://github.com/AleksCipri/AstroBenchmarking/blob/master/examples/astro-ML_RRLyrae.ipynb).
+Example for using a dataset from astroML (RR Lyrae) with a decision tree algorithm can be found [here](https://github.com/AleksCipri/AstroBenchmarking/blob/master/examples/astro-ML_RRLyrae.ipynb).
 
 
 
