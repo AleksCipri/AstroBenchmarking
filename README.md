@@ -8,19 +8,7 @@
 # ASTRO + ML BEST PRACTICES
 * We believe in fair, transparant, open and reproducible science. 
 * Here we summarize what we believe are best practices for acheaving these goals. Modern research (esspetially if it includes novel computing or machine learning techniques) has to comply with a set of requirement in order for other researchers to be able to understand, compare and reproduce the results. Without transparency in both data aquiral / preprocessing, coding and hyper parameter fine tuning, but also without model benhmarking on standardized but simple datasets (before applying models to specialized datasets unque for that research topic), we cannot produce trustworthy and reliable scientific results. 
-
-| Datasets      | 
-| ------------- |
-|Data description :
--State at what time and from where (which telescope/database) the data was collected.
--Include a ‘codebook’ describing each variable and its units. 
-   | 
-| ------------- |
-| Coding        |
-| ------------- |
-| zebra stripes |
-
-
+* The file can be found [here](https://github.com/AleksCipri/AstroBenchmarking/). 
 
 
 ## DATA
@@ -61,7 +49,9 @@ Access the repo [here](https://github.com/skypyproject/skypy).
 
 
 # REAL DATASETS
-.......fill in......
+## AstroML
+....fill in ......
+Example for using a dataset from astroML (RR Lyrae) within an decision tree algorithm can be foun [here](https://github.com/AleksCipri/AstroBenchmarking/blob/master/examples/astro-ML_RRLyrae.ipynb).
 
 
 
