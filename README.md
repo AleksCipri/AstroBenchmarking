@@ -92,20 +92,18 @@ The survey obtained photometry for hundreds of millions of stars, quasars, and g
 
 SDSS photometric data are observed through five filters, u, g, r, i, and z. A visualization of the range of these filters is shown below:
 
-- SDSS filters:
-[here](https://www.astroml.org/examples/datasets/plot_sdss_filters.html)  ![](images/plot_sdss_filters_1.png)
+- [SDSS filters](https://www.astroml.org/examples/datasets/plot_sdss_filters.html):  ![](images/plot_sdss_filters_1.png)
 
-- SDSS Spectra:
-[here](https://www.astroml.org/examples/datasets/plot_sdss_spectrum.html), ![](images/plot_sdss_spectrum_1.png)
+- [SDSS Spectra](https://www.astroml.org/examples/datasets/plot_sdss_spectrum.html): ![](images/plot_sdss_spectrum_1.png)
 
-- SDSS photometry:
-[here](https://www.astroml.org/examples/datasets/plot_sdss_galaxy_colors.html), ![](images/plot_sdss_galaxy_colors_1.png)
+- [SDSS photometry](https://www.astroml.org/examples/datasets/plot_sdss_galaxy_colors.html): ![](images/plot_sdss_galaxy_colors_1.png)
 
 - Other datasets:
+
 There are several other avalable adtasets to chose from: [SDSS corected Spectra](https://www.astroml.org/examples/datasets/plot_corrected_spectra.html), [SDSS Spectroscopic Sample](https://www.astroml.org/examples/datasets/plot_sdss_specgals.html), [SDSS DR7 Quasar Catalog](https://www.astroml.org/examples/datasets/plot_dr7_quasar.html); data from other surveys such as Nasa Sloan Atlas and Stripe 82 Standards + 2MASS,
 time Domain Data and WMAP temperature map.
 
-For more plese see [here](https://www.astroml.org/user_guide/datasets.html)
+For more plese see [here](https://www.astroml.org/user_guide/datasets.html).
 
 
 ### Example notebooks
