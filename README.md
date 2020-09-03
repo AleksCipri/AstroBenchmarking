@@ -39,7 +39,7 @@
 - Consider having a GitHub (or similar) repo where you can host all additional material and code and provide links to the datasets used (provided you are hosting them somewhere). Also include all the relevant links in the published paper.
 - Mention the programming language, OS type and version, and version of software packages used.
 
-* **For neural networks**
+* **Neural networks**
 
 - If possible visualize your neural network.
 - Briefly explain model architecture and give details about all hyperparameters used when training was performed. State which loss function was used, as well as the name of the optimizer and its parameters. 
