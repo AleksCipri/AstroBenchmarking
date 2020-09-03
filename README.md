@@ -71,8 +71,6 @@ This package contains methods for modelling the Universe, galaxies and the Milky
 Access the repo [here](https://github.com/skypyproject/skypy).
 
 
-
-
 # SIMULATED DATASETS
 
 ## Bolognia Lens Factory
@@ -108,7 +106,14 @@ SDSS prevent many others data such as: SDSS corected Spectra [here](https://www.
 SDSS contains Combined Surveys such as Nasa Sloan Atlas and Stripe 82 Standards + 2MASS.
 Time Domain Data and WMAP temperature map are also available on the AstroML page.
 
-Example for using a dataset from astroML (RR Lyrae) with a decision tree algorithm can be found [here](https://github.com/AleksCipri/AstroBenchmarking/blob/master/examples/astro-ML_RRLyrae.ipynb).
+
+### Example notebooks
+
+AstroML also contains many example notebooks that can help the user extract and use the available datasets:
+
+- One of many examples available in the astroML package is a notebook for using a Convolutional Neural Network for classifying SDSS galaxiy images. It can be accessed [here](https://www.astroml.org/book_figures/chapter9/fig_morph_nn.html). Note that there are many more examples available.
+
+- Example (by Stephen Portillo) for using a dataset from astroML (RR Lyrae) with a decision tree algorithm can be found [here](https://github.com/AleksCipri/AstroBenchmarking/blob/master/examples/astro-ML_RRLyrae.ipynb).
 
 
 
