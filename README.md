@@ -70,6 +70,14 @@ This package contains methods for modelling the Universe, galaxies and the Milky
 
 Access the repo [here](https://github.com/skypyproject/skypy).
 
+## Galaxy2Galaxy
+
+This is a [library](https://github.com/ml4astro/galaxy2galaxy) of models, datasets, and utilities to build generative models for astronomical images. Next to usfull models using Variational Auto-Encoders, Self-Attention GANs, PixelCNNs and Normalizing Flows, it also has packages that can be used to generate usefull datasets:
+
+- Framework for building image datasets using GalSim, a framework for simualting astronomical objects like stars or galaxies (read more about GalSim [here](https://github.com/GalSim-developers/GalSim)).
+
+- Tools for building an image dataset from HSC Public data release.
+
 
 # SIMULATED DATASETS
 
