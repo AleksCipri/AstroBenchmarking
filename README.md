@@ -86,7 +86,7 @@ The BLF collects simulated gravitational lenses of different kinds and from diff
 AstroML constains various datasets. Below we are presenting review.
 AstroML has available routines for downloading and working on the astronomical data sets. For more details, see the documentation [therein](https://www.astroml.org/modules/classes.html#module-astroML.datasets).
 
-## Sloan Digital Sky Survey (SDSS) Data
+### Sloan Digital Sky Survey (SDSS) Data
 
 The survey obtained photometry for hundreds of millions of stars, quasars, and galaxies, and spectra for several million of these objects. In addition, the second phase of the survey performed repeated imaging over a small portion of the sky, called Stripe 82, enabling the study of the time-variation of many objects.
 
@@ -101,10 +101,11 @@ SDSS photometric data are observed through five filters, u, g, r, i, and z. A vi
 - SDSS photometry:
 [here](https://www.astroml.org/examples/datasets/plot_sdss_galaxy_colors.html), ![](images/plot_sdss_galaxy_colors_1.png)
 
-SDSS prevent many others data such as: SDSS corected Spectra [here](https://www.astroml.org/examples/datasets/plot_corrected_spectra.html), SDSS Spectroscopic Sample [here](https://www.astroml.org/examples/datasets/plot_sdss_specgals.html) or SDSS DR7 Quasar Catalog[here](https://www.astroml.org/examples/datasets/plot_dr7_quasar.html). For more plese see [here](https://www.astroml.org/user_guide/datasets.html)
+- Other datasets:
+There are several other avalable adtasets to chose from: [SDSS corected Spectra](https://www.astroml.org/examples/datasets/plot_corrected_spectra.html), [SDSS Spectroscopic Sample](https://www.astroml.org/examples/datasets/plot_sdss_specgals.html), [SDSS DR7 Quasar Catalog](https://www.astroml.org/examples/datasets/plot_dr7_quasar.html); data from other surveys such as Nasa Sloan Atlas and Stripe 82 Standards + 2MASS,
+time Domain Data and WMAP temperature map.
 
-SDSS contains Combined Surveys such as Nasa Sloan Atlas and Stripe 82 Standards + 2MASS.
-Time Domain Data and WMAP temperature map are also available on the AstroML page.
+For more plese see [here](https://www.astroml.org/user_guide/datasets.html)
 
 
 ### Example notebooks
