@@ -81,6 +81,8 @@ Access the repo [here](https://github.com/skypyproject/skypy).
 # REAL DATASETS
 
 ## AstroML
+![](images/astroML.gif)
+
 AstroML constains various datasets. Below we are presenting review.
 AstroML has available routines for downloading and working on the astronomical data sets. https://www.astroml.org/modules/classes.html#module-astroML.datasets. For more details, see the documentation therein.
 ** Sloan Digital Sky Survey (SDSS) Data
