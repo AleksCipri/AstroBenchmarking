@@ -92,7 +92,7 @@ The survey obtained photometry for hundreds of millions of stars, quasars, and g
 SDSS photometric data are observed through five filters, u, g, r, i, and z. A visualization of the range of these filters is shown below:
 
 - SDSS filters:
-[here](https://www.astroml.org/examples/datasets/plot_sdss_filters.html)  ![](images/plot_sdss_filter_1.png)
+[here](https://www.astroml.org/examples/datasets/plot_sdss_filters.html)  ![](images/plot_sdss_filters_1.png)
 
 - SDSS Spectra:
 [here](https://www.astroml.org/examples/datasets/plot_sdss_spectrum.html), ![](images/plot_sdss_spectrum_1.png)
