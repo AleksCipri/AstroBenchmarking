@@ -59,7 +59,7 @@ Simulation library for very simple simulations to benchmark machine learning alg
 Access the repo [here](https://github.com/deepskies/DeepBench).
 
 ## SkyPy
-![](images/skypy.png)
+<img src="images/skypy.png" width="300">
 
 This package contains methods for modelling the Universe, galaxies and the Milky Way. Also included are methods for generating observed data.
 - Galaxy morphology, luminosity and redshift distributions
@@ -81,7 +81,7 @@ Access the repo [here](https://github.com/skypyproject/skypy).
 # REAL DATASETS
 
 ## AstroML
-![](images/astroML.gif)
+<img src="images/astroML.gif" width="300">
 
 AstroML constains various datasets. Below we are presenting review.
 AstroML has available routines for downloading and working on the astronomical data sets. For more details, see the documentation [therein](https://www.astroml.org/modules/classes.html#module-astroML.datasets).
