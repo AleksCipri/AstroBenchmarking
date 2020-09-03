@@ -51,7 +51,7 @@
 # SIMULATIONS 
 
 ## DeepBench
-![](images/DeepBench.png=100x)
+![](images/DeepBench.png=100x50)
 
 Simulation library for very simple simulations to benchmark machine learning algorithms. 
 - Simple geometrical shapes that can resemble different astronomical objects
