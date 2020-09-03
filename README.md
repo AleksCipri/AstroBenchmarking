@@ -106,8 +106,8 @@ SDSS photometric data are observed through five filters, u, g, r, i, and z. A vi
 
 - Other datasets:
 
-There are several other avalable adtasets to chose from: [SDSS corected Spectra](https://www.astroml.org/examples/datasets/plot_corrected_spectra.html), [SDSS Spectroscopic Sample](https://www.astroml.org/examples/datasets/plot_sdss_specgals.html), [SDSS DR7 Quasar Catalog](https://www.astroml.org/examples/datasets/plot_dr7_quasar.html); data from other surveys such as Nasa Sloan Atlas and Stripe 82 Standards + 2MASS,
-time Domain Data and WMAP temperature map.
+There are several other avalable adtasets to chose from: [SDSS corected Spectra](https://www.astroml.org/examples/datasets/plot_corrected_spectra.html), [SDSS Spectroscopic Sample](https://www.astroml.org/examples/datasets/plot_sdss_specgals.html), [SDSS DR7 Quasar Catalog](https://www.astroml.org/examples/datasets/plot_dr7_quasar.html); data from other surveys such as [Nasa Sloan Atlas](https://www.astroml.org/examples/datasets/plot_nasa_atlas.html) and [Stripe 82 Standards + 2MASS](https://www.astroml.org/examples/datasets/plot_sdss_S82standards.html),
+time Domain Data like [RRLyrae](https://www.astroml.org/book_figures/chapter10/fig_rrlyrae_reconstruct.html) or [LIGO data](https://www.astroml.org/examples/datasets/plot_LIGO_spectrum.html) and [WMAP temperature map](https://www.astroml.org/examples/datasets/plot_wmap_power_spectra.html).
 
 For more plese see [here](https://www.astroml.org/user_guide/datasets.html).
 
