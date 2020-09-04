@@ -108,7 +108,7 @@ The data consists of 9 simulated SKA continuum images in FITS format in total in
 Training data for Kaggle’s (now closed) challenge “Observing Dark Worlds” can be found [here](https://www.kaggle.com/c/DarkWorlds/data). The challenge involved predicting the center of each dark matter halo in 120 simulated test skies, with the training set being 300 files of simulated skies containing 300-740 galaxies each.
 
 ## Nyx Cosmological Simulation Data
-<img src="images/nyx.png" width="300">
+<img src="images/Nyx.png" width="300">
 
 A sample dataset based on the Lawrence Berkeley National Laboratory’s compressible cosmological hydrodynamics simulation code Nyx is available [here](https://ieee-dataport.org/open-access/nyx-cosmological-simulation-data).
 
