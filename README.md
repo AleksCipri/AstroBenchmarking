@@ -117,6 +117,10 @@ A sample dataset based on the Lawrence Berkeley National Laboratory’s compress
 
 These [data](https://github.com/microlensing-data-challenge/data-challenge-1) are associated with the Microlensing Data challenge (about which more information can be found [here]( https://microlensing-source.org/data-challenge/)) and consist of light curves simulated as those expected from the WFIRST survey.
 
+## Quijote Simulations
+“The [Quijote simulations](https://github.com/franciscovillaescusa/Quijote-simulations) are a set of 43100 full N-body simulations. They are designed for two main tasks: (1) Quantify the information content on cosmological observables; (2) Provide enough statistics to train machine learning algorithms. But they can be used for a large variety of problems.”
+
+
 # REAL DATASETS
 
 ## AstroML
@@ -197,14 +201,36 @@ A database of all discovered extrasolar planets. The codebook and steps to acces
 
 [This webpage](https://astrostatistics.psu.edu/datasets/index.html) hosts several prepackaged astronomical datasets (including univariate, multivariate, images, model selection, spectra, etc.) for statistical analysis. Two example datasets on the site are the [Shapley galaxy redshift catalog](https://astrostatistics.psu.edu/datasets/Shapley_galaxy.html) and [SDSS quasar catalog](https://astrostatistics.psu.edu/datasets/SDSS_quasar.html).
 
-# LEARNING AND USEFULL READS
+## Galaxy Zoo Data
+Galaxy Zoo was a citizen science project with the purpose of classifying the morphologies of ~1 million galaxies imaged by the SDSS. The classification data, along with measurements of bulge size, presence of bars, and the structure of spiral arms, are now available [here](https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/data) on Kaggle.
 
-... fill in ....
+## Optical Gravitational Lensing Experiment (OGLE) data
+
+OGLE is an observing project that started in 1992. It has the longest ground based observational data set of the Southern sky, specifically the Magellanic Clouds. OGLE gives png format pictures of the periodic variable stars. If a pulsating star has more than one pulsational period then folded light curves are given for all the present periods. This means that there is also additional data for each star: period of pulsation(s), Fourier parameters (from light curve decomposition). The light curves on the png pictures are in the I filter. There were some differences in the catalogs from one release to the other. Here, we have the OGLE Collection of Variable Stars and OGLE-III. 
+
+### OGLE Collection of Variable Stars (OCVS)
+- 639 309 stars in total
+- Types of variables: classical Cepheids (CEP), anomalous Cepheids (ACEP), Type II Cepheids (T2CEP), RR Lyrae variables (RRLYR), eclipsing stars (ECL)
+- Find the data [here](http://ogledb.astrouw.edu.pl/~ogle/OCVS/index.php)
+
+### OGLE-III Data
+- 399 651 stars
+- Types of variables: classical Cepheids (CEP), anomalous Cepheids (ACEP), Type II Cepheids (T2CEP), RR Lyrae variables (RRLYR), eclipsing stars (ECL), Long Period Variables (LPV), Double Period Variables (DPV), R CrB stars (RCB), delta Scuti stars (DSCT)
+- Find the data [here](http://ogledb.astrouw.edu.pl/~ogle/CVS/)
+
+## Minor Planet Center (MPC) Data
+The [MPC site](https://minorplanetcenter.net/data) hosts a large volume of data regarding the orbits of thousands of small bodies in the Solar System. You can access data about the orbits of all the asteroids or comets in the MPC database, along with much more!
+
+## Photo-z catalogs
+
+Photometric redshift catalogs presented in [Beck et al. 2017](https://arxiv.org/abs/1701.08748) that can be used to probe color coverage and photometric errors can be accessed at [this](https://github.com/COINtoolbox/photoz_catalogues) GitHub repo; one of the products of the third edition of the COIN Residence Program.
+
+
+# LEARNING AND USEFUL READS
+- [Reproducible Machine Learning](https://towardsdatascience.com/reproducible-machine-learning-cf1841606805), an article published on the Medium blog Towards Data Science (and a reference for this project!), is a really good starting point for developing a set of best practices to achieve reproducibility in astro+ML.
+- The [Towards Data Science](https://towardsdatascience.com/) publication itself includes superb, in-depth tutorials on anything and everything in data science.
+- [Machine Learning Mastery](https://machinelearningmastery.com/start-here/) is another great blog which guides the reader through the code, theory and applications of ML.
 
 
 # WANT TO CONTRIBUTE?
 * We need combined knowledge from the entire astro comunity and researchers from different fields! Are you working in ML? Do you have a suitable dataset that can be used for benchmarking? Do you have experience in coding, open-source software? Please reach out if you want to help!
-
-
-
-
