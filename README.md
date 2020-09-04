@@ -94,10 +94,12 @@ The BLF collects simulated gravitational lenses of different kinds and from diff
 - A useful labeled dataset, extracted from Illustris-1 simulation, containing around 15000 merging galaxies (on redshift z=2) by Aleksandra Cirpijanovic can be found [here](https://drive.google.com/drive/folders/1p01Q3uDseGVsoiOzvhbJqynWLCP28D8X?usp=sharing). Dataset is made to mimic Hubble Spacetelescope observations (HST like PSF added on to the simulated images) and contains two types of images - wih and without observational noise.
 
 ## MAGIC Gamma Telescope Dataset
+<img src="images/UCI.png" width="300">
 
 [This dataset](https://archive.ics.uci.edu/ml/datasets/magic+gamma+telescope), available on the UCI Machine Learning Repository, consists of 19020 Monte Carlo-generated instances of simulated registration of high energy gamma particles in a ground-based atmospheric Cherenkov telescope using the imaging technique.
 
 ## SKA Science Data Challenge #1 Dataset
+<img src="images/ska.png" width="300">
 
 The data consists of 9 simulated SKA continuum images in FITS format in total intensity of the same field at 3 frequencies and 3 telescope integrations. It can be found [here](https://astronomers.skatelescope.org/ska-science-data-challenge-1/).
 
