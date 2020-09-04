@@ -191,6 +191,10 @@ A database of all discovered extrasolar planets. The codebook and steps to acces
 
 [This webpage](https://astrostatistics.psu.edu/datasets/index.html) hosts several prepackaged astronomical datasets (including univariate, multivariate, images, model selection, spectra, etc.) for statistical analysis. Two example datasets on the site are the [Shapley galaxy redshift catalog](https://astrostatistics.psu.edu/datasets/Shapley_galaxy.html) and [SDSS quasar catalog](https://astrostatistics.psu.edu/datasets/SDSS_quasar.html).
 
+# LEARNING AND USEFULL READS
+
+... fill in ....
+
 
 # WANT TO CONTRIBUTE?
 * We need combined knowledge from the entire astro comunity and researchers from different fields! Are you working in ML? Do you have a suitable dataset that can be used for benchmarking? Do you have experience in coding, open-source software? Please reach out if you want to help!
