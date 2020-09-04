@@ -185,10 +185,6 @@ The Solar Flare dataset, also available on the UCI Machine Learning Repository, 
 
 This data was originally used for the PLAsTiCC challenge on Kaggle in order to identify promising methods to classify variable and transient light curves. It has now been unblinded and is available on a [Zenodo repo](https://zenodo.org/record/2539456#.X1HYgcgzbIU).
 
-## Tycho-2 Catalog
-
-According to the ESA, the Tycho-2 catalog is an astronomical reference catalog containing positions, proper motions and two-color photometry for more than 2.5 million of brightest stars in the sky. The observations for magnitude and position were collected by the Hipparcos satellite and the data are available on VizieR [here](https://vizier.u-strasbg.fr/viz-bin/VizieR?-source=I/259).
-
 ## NOAO Survey Program Archives
 
 The [NOAO survey archives](https://www.noao.edu/survey-archives/) provide access to data from multiple surveys focusing broadly on the deep “blank” sky, nearby galaxies/clusters of galaxies and stellar populations in local group galaxies.
