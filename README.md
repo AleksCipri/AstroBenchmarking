@@ -72,9 +72,9 @@ Access the repo [here](https://github.com/skypyproject/skypy).
 
 ## Galaxy2Galaxy
 
-This is a [library](https://github.com/ml4astro/galaxy2galaxy) of models, datasets, and utilities to build generative models for astronomical images. Next to usfull models using Variational Auto-Encoders, Self-Attention GANs, PixelCNNs and Normalizing Flows, it also has packages that can be used to generate usefull datasets:
+This is a [library](https://github.com/ml4astro/galaxy2galaxy) of models, datasets, and utilities to build generative models for astronomical images. Next to useful models using Variational Auto-Encoders, Self-Attention GANs, PixelCNNs and Normalizing Flows, it also has packages that can be used to generate usefull datasets:
 
-- Framework for building image datasets using GalSim, a framework for simualting astronomical objects like stars or galaxies (read more about GalSim [here](https://github.com/GalSim-developers/GalSim)).
+- Framework for building image datasets using GalSim, a framework for simulating astronomical objects like stars or galaxies (read more about GalSim [here](https://github.com/GalSim-developers/GalSim)).
 
 - Tools for building an image dataset from HSC Public data release.
 
@@ -84,15 +84,32 @@ This is a [library](https://github.com/ml4astro/galaxy2galaxy) of models, datase
 ## Bolognia Lens Factory
 <img src="images/lenses.png" width="300">
 
-The BLF collects simulated gravitational lenses of different kinds and from different projects and makes them available to the community for any possible usage. Data sets can be in different formats (tables, maps, images) and some projects consist of simulated observations of gravitational lensing systems, mimicking the observing capabilities of existing or future facilities. Available datasets target lenses on a broad range of scales - lensing by galaxies, galaxy clusters and the large scale structure of the universe. You can acces these datasets [here](http://metcalf1.difa.unibo.it/blf-portal/index.html).
+The BLF collects simulated gravitational lenses of different kinds and from different projects and makes them available to the community for any possible usage. Data sets can be in different formats (tables, maps, images) and some projects consist of simulated observations of gravitational lensing systems, mimicking the observing capabilities of existing or future facilities. Available datasets target lenses on a broad range of scales - lensing by galaxies, galaxy clusters and the large scale structure of the universe. You can access these datasets [here](http://metcalf1.difa.unibo.it/blf-portal/index.html).
 
 ## Illustris Simulations
 <img src="images/Illustris.png" width="300">
 
 “The [IllustrisTNG project](https://www.tng-project.org) is an ongoing series of large, cosmological magnetohydrodynamical simulations of galaxy formation. TNG aims to illuminate the physical processes that drive galaxy formation: to understand when and how galaxies evolve into the structures that are observed in the night sky, and to make predictions for current and future observational programs. The simulations use a state of the art numerical code which includes a comprehensive physical model and runs on some of the largest supercomputers in the world”. 
 
-- A useful labeled dataset, extracted from Illustris-1 simulation, containing around 15000 merging galaxies (on redshift z=2) by Aleksandra Cirpijanovic can be found [here](https://drive.google.com/drive/folders/1p01Q3uDseGVsoiOzvhbJqynWLCP28D8X?usp=sharing). Dataset is made to mimic Hubble Spacetelescop observations (HST like PSF added on to the simulated images) and contains two types of images - wih and without observational noise.
+- A useful labeled dataset, extracted from Illustris-1 simulation, containing around 15000 merging galaxies (on redshift z=2) by Aleksandra Cirpijanovic can be found [here](https://drive.google.com/drive/folders/1p01Q3uDseGVsoiOzvhbJqynWLCP28D8X?usp=sharing). Dataset is made to mimic Hubble Spacetelescope observations (HST like PSF added on to the simulated images) and contains two types of images - wih and without observational noise.
 
+## MAGIC Gamma Telescope Dataset
+
+[This dataset](https://archive.ics.uci.edu/ml/datasets/magic+gamma+telescope), available on the UCI Machine Learning Repository, consists of 19020 Monte Carlo-generated instances of simulated registration of high energy gamma particles in a ground-based atmospheric Cherenkov telescope using the imaging technique.
+
+## SKA Science Data Challenge #1 Dataset
+
+The data consists of 9 simulated SKA continuum images in FITS format in total intensity of the same field at 3 frequencies and 3 telescope integrations. It can be found [here](https://astronomers.skatelescope.org/ska-science-data-challenge-1/).
+
+## Observing Dark Worlds
+Training data for Kaggle’s (now closed) challenge “Observing Dark Worlds” can be found [here](https://www.kaggle.com/c/DarkWorlds/data). The challenge involved predicting the center of each dark matter halo in 120 simulated test skies, with the training set being 300 files of simulated skies containing 300-740 galaxies each.
+
+## Nyx Cosmological Simulation Data
+A sample dataset based on the Lawrence Berkeley National Laboratory’s compressible cosmological hydrodynamics simulation code Nyx is available [here](https://ieee-dataport.org/open-access/nyx-cosmological-simulation-data).
+
+## Microlensing Data Challenge 
+
+These [data](https://github.com/microlensing-data-challenge/data-challenge-1) are associated with the Microlensing Data challenge (about which more information can be found [here]( https://microlensing-source.org/data-challenge/)) and consist of light curves simulated as those expected from the WFIRST survey.
 
 # REAL DATASETS
 
@@ -122,26 +139,61 @@ SDSS photometric data are observed through five filters, u, g, r, i, and z. A vi
 
 - Other datasets:
 
-There are several other avalable adtasets to chose from: [SDSS corected Spectra](https://www.astroml.org/examples/datasets/plot_corrected_spectra.html), [SDSS Spectroscopic Sample](https://www.astroml.org/examples/datasets/plot_sdss_specgals.html), [SDSS DR7 Quasar Catalog](https://www.astroml.org/examples/datasets/plot_dr7_quasar.html); data from other surveys such as [Nasa Sloan Atlas](https://www.astroml.org/examples/datasets/plot_nasa_atlas.html) and [Stripe 82 Standards + 2MASS](https://www.astroml.org/examples/datasets/plot_sdss_S82standards.html),
+There are several other available datasets to choose from: [SDSS corected Spectra](https://www.astroml.org/examples/datasets/plot_corrected_spectra.html), [SDSS Spectroscopic Sample](https://www.astroml.org/examples/datasets/plot_sdss_specgals.html), [SDSS DR7 Quasar Catalog](https://www.astroml.org/examples/datasets/plot_dr7_quasar.html); data from other surveys such as [Nasa Sloan Atlas](https://www.astroml.org/examples/datasets/plot_nasa_atlas.html) and [Stripe 82 Standards + 2MASS](https://www.astroml.org/examples/datasets/plot_sdss_S82standards.html),
 time Domain Data like [RRLyrae](https://www.astroml.org/book_figures/chapter10/fig_rrlyrae_reconstruct.html) or [LIGO data](https://www.astroml.org/examples/datasets/plot_LIGO_spectrum.html) and [WMAP temperature map](https://www.astroml.org/examples/datasets/plot_wmap_power_spectra.html).
 
 <img src="images/WMAP.png" width="800">
 
-For more plese see [here](https://www.astroml.org/user_guide/datasets.html).
-
+For more please see [here](https://www.astroml.org/user_guide/datasets.html).
 
 ### Example notebooks
 
 AstroML also contains many example notebooks that can help the user extract and use the available datasets:
 
-- One of many examples available in the astroML package is a notebook for using a Convolutional Neural Network for classifying SDSS galaxiy images. It can be accessed [here](https://www.astroml.org/book_figures/chapter9/fig_morph_nn.html). Note that there are many more examples available.
+- One of many examples available in the astroML package is a notebook for using a Convolutional Neural Network for classifying SDSS galaxy images. It can be accessed [here](https://www.astroml.org/book_figures/chapter9/fig_morph_nn.html). Note that there are many more examples available.
 
 - Example (by Stephen Portillo) for using a dataset from astroML (RR Lyrae) with a decision tree algorithm can be found [here](https://github.com/AleksCipri/AstroBenchmarking/blob/master/examples/astro-ML_RRLyrae.ipynb).
 
+## KiDS Data Release 3 Quasar Catalog
+
+The [catalog](http://kids.strw.leidenuniv.nl/DR3/quasarcatalog.php
+), prepared by Nakoneczny et al., includes around 190000 quasar candidates. These candidates were identified using a random forest classifier from among a cleaned KiDS inference dataset.
+
+## Datasets for GalSim
+
+A dataset of real galaxies extracted from the HST COSMOS survey and compiled by Rachel Mandelbaum et al. for use with GalSim to produce realistic simulations can be found in the associated [Zenodo repo](https://zenodo.org/communities/galsim/?page=1&size=20).
+
+## HTRU2 Dataset
+
+The [HTRU2 dataset](https://archive.ics.uci.edu/ml/datasets/HTRU2#:~:text=HTRU2%20is%20a%20data%20set,emission%20detectable%20here%20on%20Earth.), available on the UCI Machine Learning Repository, describes a sample of pulsar candidates collected during the High Time Resolution Survey (South). The dataset contains 17898 instances (1639 being pulsars) and 9 attributes (mean of the integrated profile, mean of the DM-SNR curve, etc.).
+
+## Solar Flare Dataset
+
+The Solar Flare dataset, also available on the UCI Machine Learning Repository, consists of 1389 instances, each of which capture features for one active region on the Sun. 3 classes of flares (C, M, and X), and their number within a 24-hour period can be predicted using the provided attributes.
+
+## PLAsTiCC Challenge Dataset
+
+This data was originally used for the PLAsTiCC challenge on Kaggle in order to identify promising methods to classify variable and transient light curves. It has now been unblinded and is available on a [Zenodo repo](https://zenodo.org/record/2539456#.X1HYgcgzbIU).
+
+## Tycho-2 Catalog
+
+According to the ESA, the Tycho-2 catalog is an astronomical reference catalog containing positions, proper motions and two-color photometry for more than 2.5 million of brightest stars in the sky. The observations for magnitude and position were collected by the Hipparcos satellite and the data are available on VizieR [here](https://vizier.u-strasbg.fr/viz-bin/VizieR?-source=I/259).
+
+## NOAO Survey Program Archives
+
+The [NOAO survey archives](https://www.noao.edu/survey-archives/) provide access to data from multiple surveys focusing broadly on the deep “blank” sky, nearby galaxies/clusters of galaxies and stellar populations in local group galaxies.
+
+## Open Exoplanet Catalog
+
+A database of all discovered extrasolar planets. The codebook and steps to access the data are available on the associated [GitHub repo](https://github.com/OpenExoplanetCatalogue/open_exoplanet_catalogue).
+
+## Penn State University Astrostatistics Data
+
+[This webpage](https://astrostatistics.psu.edu/datasets/index.html) hosts several prepackaged astronomical datasets (including univariate, multivariate, images, model selection, spectra, etc.) for statistical analysis. Two example datasets on the site are the [Shapley galaxy redshift catalog](https://astrostatistics.psu.edu/datasets/Shapley_galaxy.html) and [SDSS quasar catalog](https://astrostatistics.psu.edu/datasets/SDSS_quasar.html).
 
 
 # WANT TO CONTRIBUTE?
-* We need combined knolwedge from the entire astro comunity and researchers from different fields! Are you working in ML? Do you have a suitable dataset that can be used for benchmarking? Do you have experience in coding, open-source software? Please reach out if you want to help!
+* We need combined knowledge from the entire astro comunity and researchers from different fields! Are you working in ML? Do you have a suitable dataset that can be used for benchmarking? Do you have experience in coding, open-source software? Please reach out if you want to help!
 
 
 
