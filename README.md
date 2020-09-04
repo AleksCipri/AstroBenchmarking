@@ -104,12 +104,16 @@ The BLF collects simulated gravitational lenses of different kinds and from diff
 The data consists of 9 simulated SKA continuum images in FITS format in total intensity of the same field at 3 frequencies and 3 telescope integrations. It can be found [here](https://astronomers.skatelescope.org/ska-science-data-challenge-1/).
 
 ## Observing Dark Worlds
+
 Training data for Kaggle’s (now closed) challenge “Observing Dark Worlds” can be found [here](https://www.kaggle.com/c/DarkWorlds/data). The challenge involved predicting the center of each dark matter halo in 120 simulated test skies, with the training set being 300 files of simulated skies containing 300-740 galaxies each.
 
 ## Nyx Cosmological Simulation Data
+<img src="images/nyx.png" width="300">
+
 A sample dataset based on the Lawrence Berkeley National Laboratory’s compressible cosmological hydrodynamics simulation code Nyx is available [here](https://ieee-dataport.org/open-access/nyx-cosmological-simulation-data).
 
 ## Microlensing Data Challenge 
+<img src="images/microlens.png" width="300">
 
 These [data](https://github.com/microlensing-data-challenge/data-challenge-1) are associated with the Microlensing Data challenge (about which more information can be found [here]( https://microlensing-source.org/data-challenge/)) and consist of light curves simulated as those expected from the WFIRST survey.
 
